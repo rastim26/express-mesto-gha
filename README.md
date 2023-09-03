@@ -1,4 +1,4 @@
-# [Проект Mesto фронтенд + бэкенд](https://github.com/rastim26/mesto-fullstack)
+# [Проект Mesto фронтенд + бэкенд](https://github.com/rastim26/express-mesto-gha)
 
 
 ## Директории
